@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**huseyintosun/huseyintosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**F1287-Alparslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
